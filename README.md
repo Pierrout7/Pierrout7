@@ -1,8 +1,8 @@
 ### Eei, eu sou a Rafa Pierrout! 🍃
 
-🌱atualmente estou aprendendo python
-😄Pronomes: ela/dela
-👩‍🎓Curso: Técnico em Informática no Colégio Santo Inácio
+- 🌱atualmente estou aprendendo python
+- 😄Pronomes: ela/dela
+- 👩‍🎓Curso: Técnico em Informática no Colégio Santo Inácio
 
 ### Contato por Email: pierroutrafaela@gmail.com
 
