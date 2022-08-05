@@ -10,6 +10,7 @@
  <div>
   <a href="https://github.com/Pierrout7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pierrout7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pierrout7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierrout7&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
@@ -38,8 +39,8 @@
    </a>
    </a>
   </div>
+  
  
   ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-   ![Snake animation](https://github.com/AmaralRage/AmaralRage/blob/output/github-contribution-grid-snake.svg)
  </div>
