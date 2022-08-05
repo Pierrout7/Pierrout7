@@ -1,4 +1,9 @@
-### Olá ! Eu sou Rafaela Pierrout e este é meu perfil !
+### Eei, eu sou a Rafa Pierrout! 🍃
+
+🌱atualmente estou aprendendo python
+😄Pronomes: ela/dela
+👩‍🎓Curso: Técnico em Informática no Colégio Santo Inácio
+
 ### Contato por Email: pierroutrafaela@gmail.com
 
  <div>
