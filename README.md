@@ -24,8 +24,7 @@
   <img align="center" alt="Pierrout7-Bootstrap" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Pierrout7-VsCode" height="30" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Pierrout7-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
- ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
  
    <img height="160" width="250" align="right" alt="Amaral's-gif" src="https://i.pinimg.com/originals/13/79/3d/13793d18e931373b096317da35854da0.gif">
 </div>
@@ -40,5 +39,7 @@
    </a>
   </div>
  
+  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
    ![Snake animation](https://github.com/AmaralRage/AmaralRage/blob/output/github-contribution-grid-snake.svg)
  </div>
