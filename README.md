@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Python
 - 😄 Pronomes: ela/dela
-- 👩‍🎓 Curso: Técnico em Informática no Colégio Santo Inácio
+- 👩‍🎓 Curso: Gradudanda em Engenharia da Computação
 
 ### Contato por Email: pierroutrafaela@gmail.com
 
